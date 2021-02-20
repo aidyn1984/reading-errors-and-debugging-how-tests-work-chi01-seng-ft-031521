@@ -10,8 +10,8 @@ def difference(first_number, second_number)
 end
 
 def product(first_number, second_number)
-  difference = first_number - second_number
-  difference
+  product = first_number - second_number
+  product
 end
 
 
