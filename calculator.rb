@@ -1,7 +1,9 @@
 # Add your variables here
+def sum
 first_number = 1
 second_number = 2
 sum = first_number + second_number
+end
 
 
 # describe "./calculator.rb" do
